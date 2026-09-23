@@ -1,0 +1,6 @@
+{
+  "name": "C.O.R.E. - Procedural Sci-Fi Sandbox",
+  "description": "Procedural 2D sci-fi sandbox survival game. Explore alien depths, gather scrap, craft rigs, defeat the Eight Wardens, and secure the Worldheart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
